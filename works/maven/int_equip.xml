@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_int_equip/" imgPath="b_int_equip/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Stir</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Stir 3 Spoke, dengan posisi stir yang fleksibel, ringan dengan menggunakan bahan urethane memberikan kenyamanan saat berkendara. Memungkinkan pengemudi mengatur posisi kemudi sesuai keinginan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Alur AC</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Penyejuk udara pada bagian depan dan tengah memberikan kesejukan kepada seluruh penumpang]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">AC Controller</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Perjalanan semakin nyaman dengan fasilitas air conditiner pada posisi yang ideal serta mudah pengoperasiannya]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">AC Double Blower</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Varian GLS dilengkapi dengan AC Double Blower, dengan kesejukannya membuat perjalanan lebih nyaman dan menyenangkan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb05.jpg">
+			<event type="over">
+				<text field="desc">Indicator Cluster</text>
+			</event>
+		</thumb>
+		<image file="pic05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Desain Indicator Cluster yang mewah ditempatkan pada posisi ideal pada kedua varian (GLX & GLS) memberikan kesan futuristik]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb06.jpg">
+			<event type="over">
+				<text field="desc">Center Gamish</text>
+			</event>
+		</thumb>
+		<image file="pic06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Penggunaan Wood Panel pada varian GLS memberikan kesan mewah dan artistik pada Center Gamish]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb07.jpg">
+			<event type="over">
+				<text field="desc">Power Window</text>
+			</event>
+		</thumb>
+		<image file="pic07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Kedua varian (GLX & GLS) menggunakan fasilitas Power Window dalam memudahkan pengendara dalam membuka dan menutup jendela]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb08.jpg">
+			<event type="over">
+				<text field="desc">Speaker</text>
+			</event>
+		</thumb>
+		<image file="pic08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Pada type GLS terdapat 6 buah speaker yang tersebar di dalam kabin, menjamin kenyamanan seluruh penumpang hingga baris ketiga]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

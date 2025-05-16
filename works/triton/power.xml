@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="thumb/power/" imgPath="power/">
+	<item>
+		<thumb file="01.jpg">
+			<event type="over">
+				<text field="desc">2.5-liter DI-D COMMON RAIL DOHC 16-valve Intercooler Turbo</text>
+			</event>
+		</thumb>
+		<image file="01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[Mesin Triton didesain ramah lingkungan dan efisien serta telah memenuhi standart Euro-2. Strada Triton adalah Mitsubishi pick-up pertama yang mengadopsi sistem mesin Low Pressure Common Rail, yang dapat menghasilkan power yang besar pada kecepatan rendah dengan emisi gas buang yang rendah serta penggunaan bahan bakar yang efisien. 136 PS (100kW)/3.500 rpm 32.0 kg-m (314 N-m)/2000 rpm ftt 167 km/h (Max. Speed).]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="02.jpg">
+			<event type="over">
+				<text field="desc">4 Wheel Drive Transmission</text>
+			</event>
+		</thumb>
+		<image file="02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Transmisi manual 5 kecepatan dengan tubular structure meningkatkan kekokohan pada rumah transmisi sehingga lebih handal dan suara yang ditimbulkan lebih halus, triple cone synchronizing pada gigi 1, 2 dan 3 menghasilkan perpindahan posisi gigi yang lebih lembut.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="03.jpg">
+			<event type="over">
+				<text field="desc">Common Rail Fuel System</text>
+			</event>
+		</thumb>
+		<image file="03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[Dikontrol oleh supply pump untuk membangkitkan tekanan secara akumulatif di dalam common rail line. Fuel injection valve dikontrol dengan 32-bit komputer, yang akan meng-injeksi bahan bakar kedalam silinder. Tekanan di dalam common rail system mencapai 135MPa. Sistem ini sangat tepat untuk mengurangi polusi, menghemat bahan bakar dan meningkatkan tenaga.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="04.jpg">
+			<event type="over">
+				<text field="desc">Sistem 4WD (Easy Select 4WD Shift on the fly)</text>
+			</event>
+		</thumb>
+		<image file="04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Teknologi 4WD yang sudah teruji pada Rally Paris-Dakkar.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="05.jpg">
+			<event type="over">
+				<text field="desc">Intercooler Turbocharger</text>
+			</event>
+		</thumb>
+		<image file="05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dengan kipas ganda menghasilkan udara yang lebih banyak dan lebih cepat kedalam saluran intake. Turbocharger kemudian menaikkan tekanannya agar tetap dapat memompa udara ke dalam ruang bakar, dimana makin banyak udara yang masuk maka makin besar tenaga yang dihasilkan.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="06.jpg">
+			<event type="over">
+				<text field="desc">Mechanical LSDr</text>
+			</event>
+		</thumb>
+		<image file="06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Menggunakan kopling untuk mengatur torsi pada saat salah satu roda mengalami slip]]></text>
+			</event>
+		</image>
+	</item>
+		<item>
+		<thumb file="07.jpg">
+			<event type="over">
+				<text field="desc">Suspensi</text>
+			</event>
+		</thumb>
+		<image file="07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Suspensi bagian depan menggunakan double-independet wishbone dengan new front coil springs dan stabilizer bar yang memberikan kenyamanan layaknya kendaraan penumpang, suspensi ini juga mampu menghasilkan traksi yang baik dan lebih stabil di kondisi jalan normal maupun off road.]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

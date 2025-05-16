@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="200" height="50" distance="2" acceleration="5" path="thumbs/" imgPath="big/">
+	<item>
+		<thumb file="int_01.jpg">
+			<event type="releaseOutside">
+				<text field="desc">Center glove box</text>
+			</event>
+			<!--<event type="out">
+				<text field="desc">Center glove box</text>
+			</event>
+			<event type="releaseOutside" url=""/>-->
+		</thumb>
+		<image file="int_01.png">
+			<event type="load">
+				<text field="pdesc">Center glove box</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="int_02.jpg">
+			<event type="over">
+				<text field="desc">Center table foldable type</text>
+			</event>
+		</thumb>
+		<image file="int_02.png">
+			<event type="load">
+				<text field="pdesc">Center table foldable type</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="int_03.jpg">
+			<event type="over">
+				<!--<text field="desc"><![CDATA[This is the <b>third</b> thumbnail]]></text>-->
+				<text field="desc">Arm rest with silver panel</text>
+			</event>
+		</thumb>
+		<image file="int_03.png">
+			<event type="load">
+				<text field="pdesc">Arm rest with silver panel</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="int_04.jpg">
+			<event type="over">
+				<text field="desc">7 inches 2DIN monitor</text>
+			</event>
+		</thumb>
+		<image file="int_04.png">
+			<event type="load">
+				<text field="pdesc">7 inches 2DIN monitor touch screen</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="int_05.jpg">
+			<event type="over">
+				<text field="desc">SEAT</text>
+			</event>
+		</thumb>
+		<image file="int_05.png">
+			<event type="load">
+				<text field="pdesc">Desain interior Grandis GT merupakan paduan kemewahan fungsi dan kenyamanan. Berbagai variasi pengaturan tempat duduk dan konsep baru dalam fungsi tempat duduk membuat Grandis GT memiliki daya tarik dan kelas tersendiri</text>
+			</event>
+		</image>
+	</item>
+	<!--
+	<item>
+		<thumb file="th_5.jpg">
+			<event type="over">
+				<text field="desc">This is the sixth thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_5.jpg">
+			<event type="load">
+				<text field="pdesc">Image 5</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_6.jpg">
+			<event type="over">
+				<text field="desc"><![CDATA[This is the <i>seventh</i> thumbnail]]></text>
+			</event>
+		</thumb>
+		<image file="pic_6.jpg">
+			<event type="load">
+				<text field="pdesc">Image 6</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_7.jpg">
+			<event type="over">
+				<text field="desc">This is the eight thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_7.jpg">
+			<event type="load">
+				<text field="pdesc">Image 7</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_8.jpg">
+			<event type="over">
+				<text field="desc">This is the nineth thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_8.jpg">
+			<event type="load">
+				<text field="pdesc">Image 8</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_9.jpg">
+			<event type="over">
+				<text field="desc">This is the 10 thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_9.jpg">
+			<event type="load">
+				<text field="pdesc">Image 9</text>
+			</event>
+		</image>
+	</item>
+	-->
+</thumbnailer>

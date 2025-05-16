@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_strong/" imgPath="b_strong/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Suspensi Depan</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>McPherson Strut digunakan pada suspensi depan bertujuan untuk lebih mengoptimalkan kinerja power steering demi memberikan kenyamanan dalam berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Suspensi Belakang</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Suspensi belakang menggunakan fasilitas Rigid axle & Leaf spring Strut agar akselerasi lebih maksimal ketika berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Mesin Maven</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Menggunakan mesin 1500 cc, tipe 4G15, 12 valve, SOHC, menjadikan Mitsubishi Maven memiliki reputasi sebagai mesin yang handal dan bandel]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Transmisi 5M/T</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Transmisi 5M/T membuat performa dan akselerasi Mitsubishi Maven sangat tinggi dalam menjelajahi segala medan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb05.jpg">
+			<event type="over">
+				<text field="desc">Radius Putaran</text>
+			</event>
+		</thumb>
+		<image file="pic05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dengan minimum radius putaran 5.4 m, membuat Maven lebih lincah dalam bermanuver di kepadatan lalu lintas dan mudah parkir]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="thumb/safety/" imgPath="safety/">
+	<item>
+		<thumb file="01.jpg">
+			<event type="over">
+				<text field="desc">Rear Seat Belt</text>
+			</event>
+		</thumb>
+		<image file="01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="02.jpg">
+			<event type="over">
+				<text field="desc">Konstruksi Body / Ladder Frame</text>
+			</event>
+		</thumb>
+		<image file="02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Konstruksi ladder-frame Strada Triton lebih tebal dan lebih kuat dari generasi sebelumnya, sehingga lebih aman terhadap benturan.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="03.jpg">
+			<event type="over">
+				<text field="desc">RISE Body</text>
+			</event>
+		</thumb>
+		<image file="03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[RISE (Reinforced Impact Safety Evolution) body telah terbukti efektif melindungi keselamatan penumpang, crumple zone disekitar area penyerap energi benturan menguatkan pegangan pendukung serta mengarahkan kerusakan jauh dari penumpang]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="04.jpg">
+			<event type="over">
+				<text field="desc">Rem Depan dan Belakang)</text>
+			</event>
+		</thumb>
+		<image file="04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dengan sistem pengereman terbesar dikelasnya, bagian depan menggunakan 16 ventilated disc dan bagian belakang menggunakan 11.6 leading and trailing drum]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="05.jpg">
+			<event type="over">
+				<text field="desc">Side Impact Door Bars</text>
+			</event>
+		</thumb>
+		<image file="05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Besi pengaman terpasang pada semua pintu, komponen ini menjadi salah satu pengaman pasif yang melindungi seluruh penumpang saat terjadi benturan dari samping]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

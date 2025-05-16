@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="thumb/interior/" imgPath="interior/">
+	<item>
+		<thumb file="01.jpg">
+			<event type="over">
+				<text field="desc">DVD/CD/MP3 Player + Tuner</text>
+			</event>
+		</thumb>
+		<image file="01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Untuk menambah kenyamanan perjalanan, Mitsubishi Grandis dilengkapi dengan DVD/CD/MP3 Player + Tuner. Suaranya Jernih, pengoperasiannya pun mudah]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="02.jpg">
+			<event type="over">
+				<text field="desc">Kabin</text>
+			</event>
+		</thumb>
+		<image file="02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ruang kabin dengan bangku berbahan fabric berkualitas tinggi, dengan head rest (sandaran kepala) yang lebih lebar dan sandaran kursi yang landai yang memberikan kenyamanan bagi penumpang]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="03.jpg">
+			<event type="over">
+				<text field="desc">Rear Folding Center</text>
+			</event>
+		</thumb>
+		<image file="03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Rear folding center armrest yang dilengkapi dengan cup holder]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="04.jpg">
+			<event type="over">
+				<text field="desc">Center Console Box</text>
+			</event>
+		</thumb>
+		<image file="04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Center console box dan armrest.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="05.jpg">
+			<event type="over">
+				<text field="desc">Air Conditioner</text>
+			</event>
+		</thumb>
+		<image file="05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Automatic Air Conditioner yang memberikan kemudahan dalam menentukan temperatur udara kabin sesuai dengan yang diinginkan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="06.jpg">
+			<event type="over">
+				<text field="desc">Panel Interior</text>
+			</event>
+		</thumb>
+		<image file="06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Lapang, nyaman dan stylish. Pengemudi maupun penumpang akan dimanjakan oleh ruang kabin yang lapang dengan desain interior yang nyaman dan penuh gaya.]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

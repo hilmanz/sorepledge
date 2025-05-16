@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_interior/" imgPath="b_interior/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Dashboard</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Tampilan instrumen panel yang modis dengan penempatan tombol utama pada posisi ideal sesuai dengan fungsinya dan material yang halus dan lembut memberikan kesan elegan dan mewah]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Bangku/ Seat</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Memudahkan pengemudi dalam menyesuaikan posisi berkendara serta akses mudah menuju bangku ketiga memberikan anda kenyamanan dalam berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Bagasi</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ruang bagasi yang cukup luas memungkinkan untuk menaruh barang tanpa menganggu kenyamanan perjalanan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Kabin</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dimensi interior yang luas, material yang berkualitas dilengkapi dengan fitur yang mewah memberikan kenyamanan dan keleluasaan selama berkendara]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

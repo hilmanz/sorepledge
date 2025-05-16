@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="thumb/exterior/" imgPath="exterior/">
+	<item>
+		<thumb file="01.jpg">
+			<event type="over">
+				<text field="desc">Chrome Grill Acent</text>
+			</event>
+		</thumb>
+		<image file="01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="02.jpg">
+			<event type="over">
+				<text field="desc">Electric Door Mirror</text>
+			</event>
+		</thumb>
+		<image file="02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Lekuk pada sisi samping dapat mengurangi getaran yang terjadi pada kecepatan tinggi, sehingga tampilan lebih jelas dan meningkatkan keamanan saat berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="03.jpg">
+			<event type="over">
+				<text field="desc">Bed / Cargot</text>
+			</event>
+		</thumb>
+		<image file="03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="04.jpg">
+			<event type="over">
+				<text field="desc">Chrome Door Handle</text>
+			</event>
+		</thumb>
+		<image file="04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="05.jpg">
+			<event type="over">
+				<text field="desc">Wider-spread Combination Headlamps</text>
+			</event>
+		</thumb>
+		<image file="05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Meningkatkan penyebaran cahaya sehingga menghasilkan penglihatan yang lebih baik bagi pengemudi maupun pengemudi lain]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="06.jpg">
+			<event type="over">
+				<text field="desc">High Mount Stop Lamp</text>
+			</event>
+		</thumb>
+		<image file="06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dengan posisi tepat diatas tailgate handle, sehingga memudahkan penglihatan bagi pengendara dibelakang dan membantu untuk mencegah terjadinya tabrak belakang]]></text>
+			</event>
+		</image>
+	</item>
+		<item>
+		<thumb file="07.jpg">
+			<event type="over">
+				<text field="desc">Tyre</text>
+			</event>
+		</thumb>
+		<image file="07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ban dan velg dengan ukuran dan model yang terbaik dikelasnya]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="08.jpg">
+			<event type="over">
+				<text field="desc">Ground Clearance</text>
+			</event>
+		</thumb>
+		<image file="08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Mitsubishi Strada Triton memiliki ground clearance yang tertinggi dikelasnya]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

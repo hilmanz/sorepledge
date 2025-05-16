@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_elastic/" imgPath="b_elastic/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Kotak sekring di bawah bonnet</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Penempatan kotak sekring di bawah bonnet memberi kemudahan dalam melakukan pengecekan maupun perawatan sehari-hari]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">3 Bagian bumper depan mudah diganti</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Pada bumper depan terdapat 3 bagian yang mudah diganti apabila terjadi kerusakan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Ground Clearance</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ground Clearance yang tinggi memungkinkan pengendara dan penumpang untuk melewati berbagai kondisi dan situasi lalu lintas]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Ban Serep</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Fasilitas ban serep mempertegas Maven sebagai kendaraan keluarga yang sangat peduli akan keselamatan pengendaranya]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

@@ -1,0 +1,36 @@
+/* CSS Document */
+
+html,body{margin:0;padding:0;background:url(images/mainbkg.gif) top repeat-x}
+body{font: 76% arial,sans-serif;text-align:center}
+p{margin:0 10px 10px}
+/*a{display:block;color: #981793;padding:10px}*/
+div#header h1{height:134px;margin:0;padding-left:10px;padding-right:10px}
+div#container{text-align:left}
+div#content p{line-height:1.4}
+/*div#navigation{background:#B9CAFF}*/
+div#extra{background:#FF8539}
+div#footer{color: #CCC}
+div#footer p{margin:0;padding:5px 10px}
+
+div#container{width:1000px;margin:0 auto}
+div#wrapper-home{float:left;width:100%;height:456px;background:url(images/00_home.jpg) no-repeat;margin-top:2px}
+div#wrapper-newstyle{float:left;width:100%;height:456px;background:url(images/02_newstyle.jpg) no-repeat;margin-top:2px}
+div#wrapper-relax{float:left;width:100%;height:456px;background:url(images/03_relax.jpg) no-repeat;margin-top:2px}
+div#wrapper-prestige{float:left;width:100%;height:456px;background:url(images/04_prestige.jpg) no-repeat;margin-top:2px}
+div#wrapper-specs{float:left;width:100%;height:456px;background:url(images/05_specification.jpg) no-repeat;margin-top:2px}
+div#wrapper-interior{float:left;width:100%;height:456px;background:url(images/02_interiorfeat.jpg) no-repeat;margin-top:2px}
+div#wrapper{float:left;width:100%}
+/*div#content{margin-left: 300px}*/
+div#content{width:469px;height:359px;margin-left:495px;margin-top:55px;/*background-color:#FFF*/}
+div#navigation{float:left;width:100%}
+div#extra{float:left;width:150px;margin-left:-550px}
+div#footer{clear:left;width:100%;color:#CCC;padding-top:50px;}
+
+div#grandis{float:left;}
+div#mitsubishi{float:right;}
+
+div#footlink{float:left}
+div#copyrights{float:right}
+
+.cobadeh{color:#CCC;text-decoration:none}
+.cobadeh:hover{color:#333;text-decoration:none}

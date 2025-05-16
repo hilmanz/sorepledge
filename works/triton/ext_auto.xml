@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="thumb/ext_auto/" imgPath="ext_auto/">
+	<item>
+		<thumb file="01.jpg">
+			<event type="over">
+				<text field="desc">Light Monitor Alarm</text>
+			</event>
+		</thumb>
+		<image file="01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Jika pengemudi lupa mematikan headlamp setelah kunci kontak dicabut, buzzer akan memberi tanda ketika pintu kendaraan dibuka]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="02.jpg">
+			<event type="over">
+				<text field="desc">Open Door Alarm</text>
+			</event>
+		</thumb>
+		<image file="02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Sensor akan mendeteksi, jika pintu masih terbuka ketika kendaraan sudah bergerak dan memberi tanda melalui buzzer]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="03.jpg">
+			<event type="over">
+				<text field="desc">Speed Sensitive Front Wiper</text>
+			</event>
+		</thumb>
+		<image file="03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ketika wiper depan diset pada posisi intermittent, sensor kecepatan akan menyesuaikan irama gerakan wiper sesuai kecepatan kendaraan.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="04.jpg">
+			<event type="over">
+				<text field="desc">Headlamp Auto Off Function</text>
+			</event>
+		</thumb>
+		<image file="04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Timer secara otomatis mematikan headlamp sesaat setelah mesin dimatikan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="05.jpg">
+			<event type="over">
+				<text field="desc">Power Door Lock</text>
+			</event>
+		</thumb>
+		<image file="05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Pengemudi dapat dengan mudah membuka dan mengunci seluruh pintu hanya dengan menekan satu tombol]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="06.jpg">
+			<event type="over">
+				<text field="desc">Power Window Timer</text>
+			</event>
+		</thumb>
+		<image file="06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Setelah mesin dimatikan dan pintu masih tertutup, jendela masih dapat dibuka dan ditutup dalam waktu 30 detik.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="07.jpg">
+			<event type="over">
+				<text field="desc">Room Lamp Timer</text>
+			</event>
+		</thumb>
+		<image file="07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ketika pintu ditutup, lampu ruangan akan tetap menyala beberapa detik setelah kunci kontak dicabut.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="08.jpg">
+			<event type="over">
+				<text field="desc">Turn Flasher</text>
+			</event>
+		</thumb>
+		<image file="08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Turn signal akan berbunyi sedikitnya tiga kali, meskipun turn signal hanya digunakan dalam waktu singkat]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

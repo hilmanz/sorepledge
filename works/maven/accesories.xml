@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_accesories/" imgPath="b_accesories/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Rear Under Spoiler</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Chrome Front Lamp Trim</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Chrome Rear Lamp Trim</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Fog Lamp</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb05.jpg">
+			<event type="over">
+				<text field="desc">Chrome Door Handle Cover</text>
+			</event>
+		</thumb>
+		<image file="pic05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb06.jpg">
+			<event type="over">
+				<text field="desc">Scuff Plate</text>
+			</event>
+		</thumb>
+		<image file="pic06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb07.jpg">
+			<event type="over">
+				<text field="desc">Garnish License Plate</text>
+			</event>
+		</thumb>
+		<image file="pic07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb08.jpg">
+			<event type="over">
+				<text field="desc">Side Body Moulding</text>
+			</event>
+		</thumb>
+		<image file="pic08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb09.jpg">
+			<event type="over">
+				<text field="desc">Front Bumper Ornament</text>
+			</event>
+		</thumb>
+		<image file="pic09.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb10.jpg">
+			<event type="over">
+				<text field="desc">Rear Spoiler and Lamp</text>
+			</event>
+		</thumb>
+		<image file="pic10.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb11.jpg">
+			<event type="over">
+				<text field="desc">Side Visor Double Dot Print</text>
+			</event>
+		</thumb>
+		<image file="pic11.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb12.jpg">
+			<event type="over">
+				<text field="desc">Side Visor Single Dot Print</text>
+			</event>
+		</thumb>
+		<image file="pic12.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb13.jpg">
+			<event type="over">
+				<text field="desc">Carpet Floor</text>
+			</event>
+		</thumb>
+		<image file="pic13.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb14.jpg">
+			<event type="over">
+				<text field="desc">Side Under Spoiler</text>
+			</event>
+		</thumb>
+		<image file="pic14.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb15.jpg">
+			<event type="over">
+				<text field="desc">Chrome Door Mirror Cover</text>
+			</event>
+		</thumb>
+		<image file="pic15.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb16.jpg">
+			<event type="over">
+				<text field="desc">Side Visor Black</text>
+			</event>
+		</thumb>
+		<image file="pic16.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

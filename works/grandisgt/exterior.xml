@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="200" height="50" distance="2" acceleration="5" path="thumbs/" imgPath="big/">
+	<item>
+		<thumb file="ext_01.png">
+			<event type="releaseOutside">
+				<text field="desc">Sporty Front Grille and Bumper</text>
+			</event>
+			<!--<event type="out">
+				<text field="desc">Center glove box</text>
+			</event>
+			<event type="releaseOutside" url=""/>-->
+		</thumb>
+		<image file="ext_01.png">
+			<event type="load">
+				<text field="pdesc">Sporty Front Grille and Bumper</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="ext_02.png">
+			<event type="over">
+				<text field="desc">HID headlamps & new front fog lamp design</text>
+			</event>
+		</thumb>
+		<image file="ext_02.png">
+			<event type="load">
+				<text field="pdesc">HID headlamps & new front fog lamp design</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="ext_03.png">
+			<event type="over">
+				<!--<text field="desc"><![CDATA[This is the <b>third</b> thumbnail]]></text>-->
+				<text field="desc">New Fender, Side Body Molding, 17" Alloy Wheel</text>
+			</event>
+		</thumb>
+		<image file="ext_03.png">
+			<event type="load">
+				<text field="pdesc">New Fender, Side Body Molding, 17" Alloy Wheel</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="ext_04.png">
+			<event type="over">
+				<text field="desc">Foldable Door Mirror with Turning Lamps</text>
+			</event>
+		</thumb>
+		<image file="ext_04.png">
+			<event type="load">
+				<text field="pdesc">Foldable Door Mirror with Turning Lamps</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="ext_05.png">
+			<event type="over">
+				<text field="desc">Glass Antenna</text>
+			</event>
+		</thumb>
+		<image file="ext_05.png">
+			<event type="load">
+				<text field="pdesc">Glass Antenna</text>
+			</event>
+		</image>
+	</item>
+	
+	<item>
+		<thumb file="ext_06.png">
+			<event type="over">
+				<text field="desc">RED Rear Reflector with LED and Parking Sensor</text>
+			</event>
+		</thumb>
+		<image file="ext_06.png">
+			<event type="load">
+				<text field="pdesc">RED Rear Reflector with LED and Parking Sensor</text>
+			</event>
+		</image>
+	</item>
+	<!--<item>
+		<thumb file="th_6.jpg">
+			<event type="over">
+				<text field="desc"><![CDATA[This is the <i>seventh</i> thumbnail]]></text>
+			</event>
+		</thumb>
+		<image file="pic_6.jpg">
+			<event type="load">
+				<text field="pdesc">Image 6</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_7.jpg">
+			<event type="over">
+				<text field="desc">This is the eight thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_7.jpg">
+			<event type="load">
+				<text field="pdesc">Image 7</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_8.jpg">
+			<event type="over">
+				<text field="desc">This is the nineth thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_8.jpg">
+			<event type="load">
+				<text field="pdesc">Image 8</text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="th_9.jpg">
+			<event type="over">
+				<text field="desc">This is the 10 thumbnail</text>
+			</event>
+		</thumb>
+		<image file="pic_9.jpg">
+			<event type="load">
+				<text field="pdesc">Image 9</text>
+			</event>
+		</image>
+	</item>
+	-->
+</thumbnailer>

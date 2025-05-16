@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_exterior/" imgPath="b_exterior/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Tampilan Grill Depan</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Grill bagian depan tampil sporty. Kokoh melaju di segala medan ]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Lampu Depan</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Lampu depan multi reflector hadir dilengkapi dengan lampu kabut. Posisi lampu tinggi mudah terlihat dari jauh dan memberi penerangan maksimal. Meningkatkan keamanan perjalanan Anda]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Over Fender</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Bentuk over fender memperkuat kesan Maven yang dinamis]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Bumper</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Spesifikasi bumper yang terdiri dari 3 bagian mempermudah pengecekan dan perawatan sehari-hari serta penggantian jika terjadi kerusakan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb05.jpg">
+			<event type="over">
+				<text field="desc">Spion</text>
+			</event>
+		</thumb>
+		<image file="pic05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Fitur spion elektrik memudahkan pengendara mengatur letak spionnya sesuai kebutuhan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb06.jpg">
+			<event type="over">
+				<text field="desc">Lampu Belakang</text>
+			</event>
+		</thumb>
+		<image file="pic06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Lampu belakang didesain untuk memaksimalkan performa lampu rem agar lebih terlihat jelas]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb07.jpg">
+			<event type="over">
+				<text field="desc">Pelek dan Ban</text>
+			</event>
+		</thumb>
+		<image file="pic07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dengan menggunakan ban radial pada tiap varian dan desain pelek Alumunium Alloy yang eksklusif, memberikan kesan kokoh dan mewah. Menambah rasa percaya diri pengendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb08.jpg">
+			<event type="over">
+				<text field="desc">Fog Lamp</text>
+			</event>
+		</thumb>
+		<image file="pic08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Lampu kabut pada bagian depan meningkatkan keamanan perjalanan di daerah berkabut atau pada saat hujan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb09.jpg">
+			<event type="over">
+				<text field="desc">Tail Gate</text>
+			</event>
+		</thumb>
+		<image file="pic09.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Tail gate handle memudahkan penumpang pada saat membuka pintu belakang hanya dengan satu sentuhan pada knopnya, lebih praktis dan efisien]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

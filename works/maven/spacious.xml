@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_spacious/" imgPath="b_spacious/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Spesifikasi Ukuran Interior Maven</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Dengan luas 2,815 mm dimensi ruang interior terlihat sangat luas sehingga memberikan tingkat kenyamanan bagi para penumpang yang berada di dalam kabin]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Jarak antara Pengendara dan Kabin</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Jarak 1,060 mm antara pengendara dengan kabin membuat penumpang menjadi leluasa dalam bergerak.]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Spesifikasi Ukuran Bagasi</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ukuran bagasi yang luas dengan tinggi 1,140 mm dan luas 1,080 mm memiliki kemampuan menampung barang dengan jumlah yang cukup banyak]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Spesifikasi Ukuran Ruang Belakang</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Ruang belakang dengan luas 810 mm menjadikan penumpang di bangku ketiga merasa nyaman tanpa terganggu aktifitas penumpang lain di bangku kedua]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb05.jpg">
+			<event type="over">
+				<text field="desc">Seat Configuration I</text>
+			</event>
+		</thumb>
+		<image file="pic05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Bangku depan didesain terpisah untuk memberikan kebebasan bergerak dari berbagai sisi bagi pengemudi]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb06.jpg">
+			<event type="over">
+				<text field="desc">Seat Configuration II</text>
+			</event>
+		</thumb>
+		<image file="pic06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Bangku kedua memberikan fasilitas kenyamanan, dapat disesuaikan sesuai dengan kebutuhan penumpang]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb07.jpg">
+			<event type="over">
+				<text field="desc">Seat Configuration III</text>
+			</event>
+		</thumb>
+		<image file="pic07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Melipat bangku baris kedua guna mempermudah akses menuju bangku ketiga]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb08.jpg">
+			<event type="over">
+				<text field="desc">Door Step</text>
+			</event>
+		</thumb>
+		<image file="pic08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Fasilitas door steps pada pintu depan dan pintu belakang memudahkan penumpang keluar masuk kendaraan]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>

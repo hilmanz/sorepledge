@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnailer width="280" height="71" distance="2" acceleration="5" path="t_high/" imgPath="b_high/">
+	<item>
+		<thumb file="thumb01.jpg">
+			<event type="over">
+				<text field="desc">Built-in Ladder Frame</text>
+			</event>
+		</thumb>
+		<image file="pic01.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Kombinasi antara kekuatan sasis dan keunggulan bodi memberikan rasa aman berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb02.jpg">
+			<event type="over">
+				<text field="desc">Body Crumpled Zone</text>
+			</event>
+		</thumb>
+		<image file="pic02.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Fasilitas yang memberikan pengendalian dan mengalihkan energi benturan secara progresif dapat meningkatkan keamanan]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb03.jpg">
+			<event type="over">
+				<text field="desc">Safety Belt</text>
+			</event>
+		</thumb>
+		<image file="pic03.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Height adjusted safety belt dirancang khusus melahirkan keamanan terbaik bagi para penumpang]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb04.jpg">
+			<event type="over">
+				<text field="desc">Wiper Depan</text>
+			</event>
+		</thumb>
+		<image file="pic04.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Wiper depan memiliki desain yang stylish namun tetap mengedepankan nilai fungsional yang tinggi]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb05.jpg">
+			<event type="over">
+				<text field="desc">Wiper Belakang</text>
+			</event>
+		</thumb>
+		<image file="pic05.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Didesain berdasarkan kebutuhan akan penunjang keamanan dalam berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb06.jpg">
+			<event type="over">
+				<text field="desc">Front ventilated Disc Brake</text>
+			</event>
+		</thumb>
+		<image file="pic06.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Front ventilated disc brake merupakan spesifikasi standar penunjang keamanan bagi setiap pengendara Mitsubishi Maven]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb07.jpg">
+			<event type="over">
+				<text field="desc">Rear leading and Tailing Drums</text>
+			</event>
+		</thumb>
+		<image file="pic07.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Putaran roda yang stabil adalah salah satu elemen dalam kenyamanan berkendara]]></text>
+			</event>
+		</image>
+	</item>
+	<item>
+		<thumb file="thumb08.jpg">
+			<event type="over">
+				<text field="desc">Keyless Entry</text>
+			</event>
+		</thumb>
+		<image file="pic08.jpg">
+			<event type="load">
+				<text field="pdesc"><![CDATA[<br>Fasilitas keyless entry dengan automatic door lock memberi keamanan lebih bagi pengendara. Baru tersedia pada varian Maven GLS]]></text>
+			</event>
+		</image>
+	</item>
+</thumbnailer>
